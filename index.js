@@ -1,3 +1,5 @@
+web: node index.js
+
 'use strict'
 
 const express = require('express')
